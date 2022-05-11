@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823701896864",
+    "project_id": "todozapp-ff60d",
+    "storage_bucket": "todozapp-ff60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823701896864:android:1d7443c943365bef2213c5",
+        "android_client_info": {
+          "package_name": "com.example.todozapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823701896864-1t5gk2rakvep53f704c9vdr4nmk592vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todozapp",
+            "certificate_hash": "2640e772579869ded392c19c7dcde96304a2dabc"
+          }
+        },
+        {
+          "client_id": "823701896864-n5t4tghp8dqm2pf6lgc4659q186a0vod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPjzlFByfIuGI4qq_Y7He1z0-1Pqxh-uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823701896864-n5t4tghp8dqm2pf6lgc4659q186a0vod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
